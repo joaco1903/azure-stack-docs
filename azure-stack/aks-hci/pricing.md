@@ -20,7 +20,7 @@ Azure Kubernetes Service (AKS) on Azure Stack HCI is a subscription-based on-pre
 Use the following list to explore pricing for AKS:
 
 - Billing unit: **per vCPU of running worker nodes within workload clusters**:
-  - AKS on Azure Stack HCI and Windows Server management cluster usage is *not* charged
+  - AKS on Azure Stack HCI and Windows Server the management cluster usage is *not* charged
   - The workload cluster control plane and load balancer nodes are *not* charged
   - If you enable hyper-threading on the physical computer, which reduces the measured vCPU count by 50 percent.
 - Pricing: **US $1.33 per vCPU (of running worker nodes) per day**:
