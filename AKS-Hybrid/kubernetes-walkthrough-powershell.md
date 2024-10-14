@@ -18,7 +18,7 @@ ms.custom:
 
 # Set up an Azure Kubernetes Service host on Azure Stack HCI and Windows Server and deploy a workload cluster using PowerShell
 
-> Applies to: Azure Stack HCI or Windows Server Datacenter
+> Applies to: Azure Stack HCI 22H2 or Windows Server Datacenter
 
 This quickstart guides you through setting up an Azure Kubernetes Service (AKS) host. You create Kubernetes clusters on Azure Stack HCI and Windows Server using PowerShell. To use Windows Admin Center instead, see [Set up with Windows Admin Center](setup.md).
 
